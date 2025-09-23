@@ -1,2 +1,6 @@
-# SC_302_Documentacion_MN_Josue-Lanuza
+# SC\_302\_Documentacion\_MN\_Josue-Lanuza
+
 Repositorio para laboratorio docimentación del software
+
+Está es mi primera practica en github
+
